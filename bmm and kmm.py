@@ -1,3 +1,5 @@
+#با این برنامه شما میتوانید  ب م م  و  ک م م دو عدد را بدست  بیاورید
+
 while True:
     X = int(input("choose number\n1 = bmm: \n2 = kmm: "))
     if X == 1:
